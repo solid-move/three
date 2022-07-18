@@ -1,0 +1,11 @@
+Model Information:
+* title:	Single wooden bed
+* source:	https://sketchfab.com/3d-models/single-wooden-bed-c7bea79b8c7a4b7c9ec5eadfa2529b9a
+* author:	franckross (https://sketchfab.com/franckross)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Single wooden bed" (https://sketchfab.com/3d-models/single-wooden-bed-c7bea79b8c7a4b7c9ec5eadfa2529b9a) by franckross (https://sketchfab.com/franckross) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
